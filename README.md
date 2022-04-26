@@ -1,6 +1,10 @@
 # Vector_Beer_Crate
 STL files for a beer crate complete with bottles for your Vector to carry around!
 
+<p align="center">
+  <img src="https://github.com/RecognitionDesigns/Vector_Beer_Crate/blob/main/images/beer_crate.jpg" width="500" title="Alex Just-Alex's Vector Beer Crate">
+</p>
+
 These 3D files are free to download and ready to print and have been created by Alex Just-Alex from the 'OFFICIAL DIGITAL DREAM LABS Vector Owners' Facebook group.
 https://www.facebook.com/groups/AnkiVector/
 
